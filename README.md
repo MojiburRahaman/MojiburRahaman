@@ -5,7 +5,7 @@
     <img src="./GIF/Hi.gif" width="40px" />
 </a>
 , I'm Mojibur Rahaman</h1>
-<h3 align="center">A Passionate Front-End Developer from Bangladesh</h3>
+<h3 align="center">A Passionate Junior Web Developer from Bangladesh</h3>
 
 <br/>
 <br/>
