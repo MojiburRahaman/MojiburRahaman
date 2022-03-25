@@ -10,7 +10,8 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="200" width="350" alt="GIF" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif">
+  <!-- <img align="right" height="200" width="350" alt="GIF" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif"> -->
+  <img align="right" height="200" width="350" alt="GIF" src="https://mojiburrahaman.com/logo/mojibur-rahaman.webp">
 </a>
 
 <!-- - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Front-End Development** -->
