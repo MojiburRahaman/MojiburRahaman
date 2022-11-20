@@ -16,7 +16,7 @@
 
 <!-- - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Front-End Development** -->
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Backend Technogolies**
-- 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 **Junior Software Developer**
+<!-- - 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 **Junior Software Developer** -->
 - 💬 You can contact me  [here](https://mojiburrahaman.com/#contact) .
 - <img src="./PNG/house.png" width="20px" height="20px"/> Home : **Chandpur, Bangladesh** 
 
